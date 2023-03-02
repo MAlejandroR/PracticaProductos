@@ -1,50 +1,4 @@
-#container {
-  border: 2px solid #ccc;
-  aling-items: center;
-  justify-content: center;
-  margin-top: 5%;
-  margin-button: 10%;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-h1 {
-  margin-left:20%;
-}
-h2{
-  line-height:400px;
-  text-align:center;
-  color:#6f42c1;
-  font-size: 2em;
-}
-legend {color: #30a496;}
-fieldset{
-  width: 80%;
-}
-#inputs {
-  width: 50%;
-  margin: auto;
-  margin-top: 1.2em;
-}
-.filds {
-  margin: 1em;
-  pading: 5px;
-}
-
-#encabezado {
-  background-color: #ddf0a4;
-}
-
-
-label {
-  font-size: 1.2em;
-  margin-left: 20px;
-
-}
-
-
-#container_inner {
-  border: 1px solid blue;
+lue;
   aling-items: center;
   justify-content: center
 }
@@ -73,4 +27,3 @@ input[type=submit] {
   border-bottom: #1d84c3;
   font-size: 1em;
 }
-
